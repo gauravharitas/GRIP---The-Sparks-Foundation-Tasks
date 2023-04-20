@@ -10,7 +10,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/reesshhoo/GRIP---The-Sparks-Foundation-Tasks/blob/main/Task%201-%20Score%20Prediction/Score_prediction.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/gauravharitas/GRIP---The-Sparks-Foundation-Tasks/blob/main/Task%201-%20Score%20Prediction/Score_prediction.ipynb)
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the image on right side to view my solution._
@@ -21,7 +21,7 @@ _Please click on the image on right side to view my solution._
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/reesshhoo/GRIP---The-Sparks-Foundation-Tasks/blob/main/Task%202-%20Clustering/Iris_Clustering.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/gauravharitas/GRIP---The-Sparks-Foundation-Tasks/blob/main/Task%202-%20Clustering/Iris_Clustering.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 _Please click on the image on right side to view my solution._
